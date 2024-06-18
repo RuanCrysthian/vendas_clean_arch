@@ -1,0 +1,8 @@
+
+ˆ	java:S107"AConstructor has 8 parameters, which is greater than 7 authorized.(Ëê†Òşÿÿÿÿ8÷Ÿ±Ê÷1J$7310425e-d427-41d6-8e18-f27ede2c0106
+|
+java:S1117i"9Rename "width" which hides the field declared at line 13.(ã‡•Á8€ ±Ê÷1J$eeab735a-52a5-4515-aaee-ed13d03fa830
+‚
+java:S1117j":Rename "height" which hides the field declared at line 15.(³“²Îøÿÿÿÿ8 ±Ê÷1J$bbd1cf01-46b4-4361-8b09-3d3ba7f19461
+‚
+java:S1117k":Rename "length" which hides the field declared at line 17.(«İ›ûûÿÿÿÿ8‚ ±Ê÷1J$9e7d433f-e7f4-4026-8781-3aea480a5d65
